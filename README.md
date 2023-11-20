@@ -16,5 +16,5 @@ Contacto
 ¡Estoy ilusionado por colaborar en proyectos interesantes! Si deseas conectarte conmigo, no dudes en enviarme un mensaje a [mi correo](guilleweb1931@gmail.com) o a través de mis redes sociales [LinkedIn](linkedin.com/in/guillermo-álvarez).
 
 ¡Gracias por visitar mi perfil! 🚀
-
- https://img.shields.io/badge/any_text-you_like-blue
+## Prueba
+ [Enlace](https://img.shields.io/badge/any_text-you_like-blue)
